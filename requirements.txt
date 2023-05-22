@@ -2,5 +2,5 @@ conlleval==0.1
 jieba==0.39
 tensorflow==1.15.2
 numpy==1.17.3
-requests==2.22.0
+requests==2.31.0
 tornado==6.0.3
